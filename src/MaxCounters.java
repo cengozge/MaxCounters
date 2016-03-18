@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.function.IntUnaryOperator;
 
 import numericalOperations.NumericalOperations;
 
