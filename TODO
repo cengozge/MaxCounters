@@ -1,0 +1,11 @@
+- large_random1 
+large random test, 2120 max_counter operations ✘TIMEOUT ERROR 
+running time: >10.00 sec., time limit: 4.57 sec.
+▶ large_random2 
+large random test, 10000 max_counter operations ✘TIMEOUT ERROR 
+running time: >11.00 sec., time limit: 5.33 sec.
+▶ extreme_large 
+all max_counter operations ✘TIMEOUT ERROR 
+running time: >14.00 sec., time limit: 8.27 sec.
+
+--time complexity will be decreased.
